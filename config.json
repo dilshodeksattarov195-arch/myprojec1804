@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessionparse",
+        "uuid": 11540188,
+        "checksum": "qmow2"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
